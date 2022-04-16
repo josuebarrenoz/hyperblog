@@ -55,7 +55,16 @@ body
 #post
 {
     padding: 1em;
-
-
-
+}
+#footer
+{
+    background: #777;
+    color:white;
+    text-align: center;
+    padding: 0.5em;
+    /*Inicio del comentario
+    El font-size fue agregado por gusto del programador.
+    No pertenece a la clase de Git & Github
+    Final del comentario*/
+    font-size: smaller;
 }
